@@ -1,5 +1,8 @@
 hello everyone !!!
+<<<<<<< HEAD
 change
 intelligent
 
+=======
+>>>>>>> parent of 31c2fb9... commit test again
 
